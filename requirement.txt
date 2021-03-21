@@ -7,7 +7,7 @@ Ubuntu 20.04 64bit
 [Language]
 Python 3.8 64bit
 
-[Library]
+[Package]
 PyQt5 5.15.4
 pyupbit 0.2.14
 websocket 0.2.1
