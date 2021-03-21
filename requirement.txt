@@ -1,0 +1,19 @@
+[Project]
+pyubpit wss recieve real price
+
+[OS]
+Ubuntu 20.04 64bit
+
+[Language]
+Python 3.8 64bit
+
+[Library]
+PyQt5 5.15.4
+pyupbit 0.2.14
+websocket 0.2.1
+websocket-client 0.58.0
+
+[Description]
+QThread와 Websocket-Client를 이용한 원하는 종목 리얼시세 받기 간단한 버전
+Combobox에 들어있는 종목은 pyupbit의 전체 ticker 조회 후 KRW- 가 들어있는 
+ticker만 추려냈음
